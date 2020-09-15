@@ -26,7 +26,7 @@ class Content extends React.Component {
       <div>
         <Header
           color="transparent"
-          brand="aya"
+          brand="home"
           rightLinks={<HeaderLinks />}
           fixed
           changeColorOnScroll={{

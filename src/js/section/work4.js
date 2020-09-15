@@ -53,7 +53,7 @@ class Work4 extends React.Component {
 									</ul>
 									<ul className={classes.listStyleNone}>
 										<li>◆開発手法</li>
-										<li>アジャイル開発</li>
+										<li>アジャイル開発、テスト駆動開発</li>
 									</ul>
 								</React.Fragment>
 							)

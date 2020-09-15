@@ -28,7 +28,9 @@ class Works extends React.Component {
           <Work2 />
           <Work3 />
           <Work4 />
-          <div><p>and more...</p></div>
+          <GridItem xs={12} sm={6} md={6}>
+            <div><p>and more...</p></div>
+          </GridItem>
         </GridContainer>
       </div>
     );
