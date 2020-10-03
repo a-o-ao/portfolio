@@ -24,7 +24,7 @@ class Work3 extends React.Component {
 									<p>2013/07〜2014/12</p>
 									<p>
 										SPAのフロントエンドの新規開発を担当しました。<br />
-										フレームワークの選定やアーキテクト、実装メンバーの技術サポートを担当しました。<br />
+										技術選定やアーキテクト、実装メンバーの技術サポートやスケジュール管理を担当しました。<br />
 										また、お客様先に出向いて要件定義をおこないました。<br />
 										実装からはJIRAを使用したスクラム開発を経験しました。<br />
 										SeleniumやQUnitを使用してテストを自動化しました。
@@ -41,7 +41,7 @@ class Work3 extends React.Component {
 									<li>BackboneJS</li>
 									<li>Selenium</li>
 									<li>QUnit</li>
-									<li>Amazon Linux AMI</li>
+									<li>AWS(EC2)</li>
 								</ul>
 							)
 						},
@@ -60,7 +60,7 @@ class Work3 extends React.Component {
 									</ul>
 									<ul className={classes.listStyleNone}>
 										<li>◆開発手法</li>
-										<li>スクラム開発(JIRA)</li>
+										<li>アジャイル開発(スクラム)</li>
 									</ul>
 								</React.Fragment>
 							)

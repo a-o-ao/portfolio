@@ -24,6 +24,7 @@ class Work4 extends React.Component {
 									<p>2011/10〜2012/06</p>
 									<p>
 											初めてRuby on Railsに携わることになり導入時は手こずりましたが、ペアプログラミングをすることにより、1ヶ月程で慣れて来てスケジュール通りに対応することができました。<br />
+											アジャイル開発を通してコミュニケーションの重要性、チームとしての仕事の進め方を学びました。
 									</p>
 								</React.Fragment>
 							)
@@ -53,7 +54,7 @@ class Work4 extends React.Component {
 									</ul>
 									<ul className={classes.listStyleNone}>
 										<li>◆開発手法</li>
-										<li>アジャイル開発、テスト駆動開発</li>
+										<li>アジャイル開発（XP)、テスト駆動開発</li>
 									</ul>
 								</React.Fragment>
 							)

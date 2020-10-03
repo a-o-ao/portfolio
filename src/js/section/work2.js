@@ -21,10 +21,11 @@ class Work2 extends React.Component {
 						tabContent: (
 							<React.Fragment>
 								<h2>ストックフォト販売サイト</h2>
-								<p>2015/01〜2016/08</p>
+								<p>2015/03〜2016/08</p>
 								<p>
 									既存システムのリニューアルに伴い、ユーザからどのようなサービスが求められるのか、お客様と一緒に考えながら提案していくことができました。<br />
-									写真を扱うシステムのため、ユーザが直感的に操作できるようなUIを、Javascriptを使って実現しました。
+									写真を扱うシステムのため、ユーザが直感的に操作できるようなUIを、Javascriptを使って実現しました。<br />
+									チームのJavascriptに対するレベルが低かったため、勉強会を開くなどしてチーム全体のレベルアップに努めました。
 								</p>
 							</React.Fragment>
 						)
@@ -33,10 +34,11 @@ class Work2 extends React.Component {
 						tabName: "開発環境",
 						tabContent: (
 							<ul>
-								<li>PHP7</li>
+								<li>PHP7.0</li>
 								<li>CakePHP</li>
 								<li>jQuery</li>
 								<li>Bootstrap</li>
+								<li>MySQL</li>
 								<li>LAMP</li>
 							</ul>
 						)

@@ -21,13 +21,13 @@ class Work1 extends React.Component {
 							tabContent: (
 								<React.Fragment>
 									<h2>人材マッチングシステム</h2>
-									<p>2016/09〜2020/10</p>
+									<p>2016/09〜</p>
 									<p>
 										学生と企業をマッチングするシステムの新規開発。<br />
 										スタートアップ企業にて創業時から開発を担当しました。<br />
-										基本設計からテストまでの工程を担当、<br />
 										バックエンド、フロントエンドの開発を担当しました。<br />
-										複数の案件を同時進行で進めていたため、スピード感と臨機応変な対応が求められました。
+										一人称で設計、実装、テストまで対応する能力が求められました。<br />
+										また、複数の案件を同時進行で進めていたため、スピード感と臨機応変な対応が求められました。
 									</p>
 								</React.Fragment>
 							)
@@ -41,7 +41,7 @@ class Work1 extends React.Component {
 									<li>jQuery</li>
 									<li>HTML, LESS, Bootstrap</li>
 									<li>MySQL</li>
-									<li>Amazon Linux AMI, Apache, Tomcat</li>
+									<li>AWS(EC2, S3), Apache, Tomcat</li>
 								</ul>
 							)
 						},

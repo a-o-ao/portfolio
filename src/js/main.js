@@ -26,7 +26,7 @@ class Content extends React.Component {
       <div>
         <Header
           color="transparent"
-          brand="home"
+          brand=""
           rightLinks={<HeaderLinks />}
           fixed
           changeColorOnScroll={{
@@ -39,7 +39,7 @@ class Content extends React.Component {
         <div className={classes.container}>
           <GridContainer>
             <GridItem xs={12} sm={12} md={6}>
-              <h1 className={classes.title}>Web Developer</h1>
+              <h1 className={classes.title}>Aya Oura</h1>
               <h4>
                 I'm freelance web developer.<br />
                 Feel free to take a look at my Portfolio page created using
