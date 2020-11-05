@@ -17,7 +17,7 @@ class AboutMyself extends React.Component {
         <GridContainer>
           <GridItem xs={12} sm={12} md={12}>
             <a name="aboutMyself" />
-            <h2 className={classes.title}>Abount Myself</h2>
+            <h2 className={classes.title}>About Myself</h2>
           </GridItem>
         </GridContainer>
         <GridContainer className={classes.gridContent}>
